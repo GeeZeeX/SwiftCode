@@ -1,0 +1,2 @@
+enum quad {
+case 1, 2, 3, 4}
